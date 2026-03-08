@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ワーワーワールド",
+  "base_artist": "花里みのり、小豆沢こはね、初音ミク",
+  "createdAt": "2026-03-08T14:24:05.613490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワーワーワールド",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/01_ワーワーワールド_Giga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワーワーワールド",
+      "artist": "初音ミク、花里みのり、小豆沢こはね",
+      "has_synced": true,
+      "path": "select/02_ワーワーワールド_初音ミク、花里みのり、小豆沢こはね.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワーワーワールド (feat. 花里みのり&小豆沢こはね&初音ミク)",
+      "artist": "初音ミク、花里みのり、小豆沢こはね",
+      "has_synced": true,
+      "path": "select/03_ワーワーワールド_(feat._花里みのり&小豆沢こはね&初音ミク)_初音ミク、花里みのり、小豆沢こはね.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワーワーワールド (feat. 花里みのり&小豆沢こはね&初音ミク)",
+      "artist": "初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏",
+      "has_synced": true,
+      "path": "select/04_ワーワーワールド_(feat._花里みのり&小豆沢こはね&初音ミク)_初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワーワーワールド (instrumental)",
+      "artist": "花里みのり、小豆沢こはね、初音ミク",
+      "has_synced": true,
+      "path": "select/05_ワーワーワールド_(instrumental)_花里みのり、小豆沢こはね、初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワーワーワールド",
+      "artist": "初音ミク、花里みのり(CV.小倉唯)、小豆沢こはね(CV.秋奈)",
+      "has_synced": true,
+      "path": "select/06_ワーワーワールド_初音ミク、花里みのり(CV.小倉唯)、小豆沢こはね(CV.秋奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワーワーワールド",
+      "artist": "花里みのり、小豆沢こはね、初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ワーワーワールド_花里みのり、小豆沢こはね、初音ミク.txt"
+    }
+  ]
+}
